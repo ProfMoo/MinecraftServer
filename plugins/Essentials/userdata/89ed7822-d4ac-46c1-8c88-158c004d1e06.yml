@@ -1,0 +1,29 @@
+lastAccountName: Scrandbob
+timestamps:
+  login: 1518412092822
+  logout: 1518412495897
+  lastteleport: 1518412353356
+ipAddress: 192.168.0.18
+afk: false
+logoutlocation:
+  world: world
+  x: 309.9194928354534
+  y: 80.0
+  z: 206.9587306220686
+  yaw: -137.69934
+  pitch: -31.199963
+lastlocation:
+  world: world
+  x: 310.052988303558
+  y: 78.0
+  z: 219.3183281441526
+  yaw: 3.0004272
+  pitch: 16.500032
+homes:
+  home:
+    world: world
+    x: 310.1381076618219
+    y: 80.0
+    z: 214.77764956622235
+    yaw: 3.0004272
+    pitch: 16.500032

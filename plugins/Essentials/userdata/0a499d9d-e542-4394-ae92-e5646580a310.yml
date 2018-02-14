@@ -1,0 +1,44 @@
+lastAccountName: Superbud9123
+timestamps:
+  login: 1518494705835
+  lastteleport: 1518495163040
+  logout: 1518495222979
+ipAddress: 192.168.0.10
+lastlocation:
+  world: world
+  x: 323.5
+  y: 13.0
+  z: 200.5
+  yaw: -270.99982
+  pitch: 23.700005
+homes:
+  spawn:
+    world: world
+    x: 301.2553905206213
+    y: 15.0
+    z: 294.2384179786537
+    yaw: 147.80788
+    pitch: 32.700077
+  home:
+    world: world
+    x: 310.3034748568475
+    y: 80.0
+    z: 212.73455060776655
+    yaw: -180.09975
+    pitch: 36.450024
+  village:
+    world: world
+    x: 40.81836052036745
+    y: 68.0
+    z: 528.1056352978071
+    yaw: 13.700348
+    pitch: 31.049873
+logoutlocation:
+  world: world
+  x: 308.45163332596456
+  y: 80.0
+  z: 207.36874826740768
+  yaw: -273.39978
+  pitch: 27.450027
+afk: false
+nickname: DrMoo

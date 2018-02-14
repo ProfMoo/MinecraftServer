@@ -1,0 +1,69 @@
+[00:00:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@4e37b2d5[id=<null>,name=bamxmejia,properties={},legacy=false] (/68.180.64.20:55187) lost connection: Disconnected
+[00:00:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@357d10c6[id=<null>,name=bamxmejia,properties={},legacy=false] (/68.180.64.20:55193) lost connection: Disconnected
+[00:01:40] [User Authenticator #4/INFO]: UUID of player bamxmejia is 754c94dc-2237-4def-891f-b75381c5df20
+[00:01:40] [Server thread/INFO]: bamxmejia[/68.180.64.20:55343] logged in with entity id 101600 at ([world]311.5, 80.0, 208.5)
+[00:04:26] [Server thread/INFO]: bamxmejia issued server command: /back
+[00:14:25] [Server thread/INFO]: bamxmejia issued server command: /back
+[00:18:14] [Server thread/INFO]: bamxmejia issued server command: /back
+[00:18:47] [Server thread/INFO]: bamxmejia lost connection: Timed out
+[00:18:47] [Server thread/INFO]: bamxmejia left the game
+[00:19:49] [User Authenticator #5/INFO]: UUID of player bamxmejia is 754c94dc-2237-4def-891f-b75381c5df20
+[00:19:50] [Server thread/INFO]: bamxmejia[/68.180.64.20:55514] logged in with entity id 116664 at ([world]-662.7190879936735, 52.900000774027916, 243.02290553989076)
+[00:19:55] [Server thread/INFO]: bamxmejia issued server command: /home
+[00:20:37] [Server thread/INFO]: bamxmejia lost connection: Disconnected
+[00:20:37] [Server thread/INFO]: bamxmejia left the game
+[20:58:52] [User Authenticator #6/INFO]: UUID of player bamxmejia is 754c94dc-2237-4def-891f-b75381c5df20
+[20:58:53] [Server thread/INFO]: bamxmejia[/68.180.64.20:52308] logged in with entity id 121709 at ([world]309.1669600475386, 80.0, 207.05387716549438)
+[21:04:46] [Server thread/INFO]: bamxmejia issued server command: /back
+[21:06:52] [Server thread/INFO]: bamxmejia issued server command: /back
+[21:08:00] [Server thread/INFO]: bamxmejia issued server command: /back
+[21:09:14] [Server thread/INFO]: bamxmejia issued server command: /back
+[21:09:44] [Server thread/INFO]: bamxmejia lost connection: Timed out
+[21:09:44] [Server thread/INFO]: bamxmejia left the game
+[21:09:44] [Server thread/WARN]: handleDisconnection() called twice
+[21:09:48] [User Authenticator #7/INFO]: UUID of player bamxmejia is 754c94dc-2237-4def-891f-b75381c5df20
+[21:09:48] [Server thread/INFO]: bamxmejia[/68.180.64.20:52319] logged in with entity id 131631 at ([world]487.50593364285305, 64.0, 38.518680253997445)
+[21:12:55] [Server thread/INFO]: bamxmejia issued server command: /home
+[21:13:26] [Server thread/INFO]: bamxmejia lost connection: Disconnected
+[21:13:26] [Server thread/INFO]: bamxmejia left the game
+[21:53:44] [User Authenticator #8/INFO]: UUID of player bamxmejia is 754c94dc-2237-4def-891f-b75381c5df20
+[21:53:45] [Server thread/INFO]: bamxmejia[/68.180.64.20:52810] logged in with entity id 138383 at ([world]311.5, 80.0, 208.5)
+[22:01:30] [Server thread/INFO]: bamxmejia issued server command: /back
+[22:05:28] [Netty Epoll Server IO #2/INFO]: <~Peruvian[m> home[m
+[22:05:30] [Server thread/INFO]: bamxmejia issued server command: /home
+[22:06:00] [Server thread/INFO]: bamxmejia issued server command: /bacl
+[22:06:02] [Server thread/INFO]: bamxmejia issued server command: /back
+[22:09:27] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[22:09:36] [Server thread/INFO]: bamxmejia issued server command: /back
+[22:09:57] [Server thread/INFO]: bamxmejia lost connection: Disconnected
+[22:09:57] [Server thread/INFO]: bamxmejia left the game
+[22:10:00] [User Authenticator #9/INFO]: UUID of player bamxmejia is 754c94dc-2237-4def-891f-b75381c5df20
+[22:10:00] [Server thread/INFO]: bamxmejia[/68.180.64.20:52845] logged in with entity id 153919 at ([world]312.5, 80.0, 203.5)
+[22:10:01] [Server thread/INFO]: [0;32;22m[WEB] BrownFrown98: [0;37;1mhold on, server stuff[m
+[22:10:05] [Server thread/INFO]: bamxmejia issued server command: /back
+[22:10:11] [Server thread/INFO]: Stopping the server
+[22:10:11] [Server thread/INFO]: Stopping server
+[22:10:11] [Server thread/INFO]: [dynmap] Disabling dynmap v2.5-Dev201706100405
+[22:10:11] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[22:10:11] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[22:10:11] [Server thread/INFO]: [dynmap] Saved 542 pending tile renders in world 'world'
+[22:10:12] [Server thread/INFO]: [dynmap] Disabled
+[22:10:12] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.2.1;84bc322
+[22:10:12] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:10:12] [Server thread/INFO]: [bPermissions] Disabling bPermissions v2.12
+[22:10:12] [Server thread/INFO]: WEPIF: bPermissions detected! Using bPermissions for permissions
+[22:10:12] [Server thread/INFO]: [bPermissions] Waiting 30s to finish tasks...
+[22:10:12] [Server thread/INFO]: [bPermissions] All tasks finished after 0 seconds!
+[22:10:12] [Server thread/INFO]: [bPermissions] Saving worlds...
+[22:10:12] [MainThread/LOAD/INFO]: [bPermissions] Worlds saved, bPermissions disabled.
+[22:10:12] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:10:12] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[22:10:12] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[22:10:12] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[22:10:12] [Server thread/INFO]: Saving players
+[22:10:12] [Server thread/INFO]: bamxmejia lost connection: Server closed
+[22:10:12] [Server thread/INFO]: bamxmejia left the game
+[22:10:12] [Server thread/INFO]: Saving worlds
+[22:10:12] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[22:10:12] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[22:10:12] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end

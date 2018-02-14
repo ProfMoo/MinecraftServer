@@ -1,0 +1,40 @@
+default: User
+groups:
+  Owner:
+    permissions:
+    - dynmap.*
+    - essentials.*
+    groups: []
+  User:
+    permissions:
+    - essentials.afk
+    - essentials.afk.auto
+    - essentials.afk.kickexempt
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.clearinventory
+    - essentials.compass
+    - essentials.delhome
+    - essentials.help
+    - essentials.home
+    - essentials.home.bed
+    - essentials.ignore
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.msg
+    - essentials.msg.*
+    - essentials.nick
+    - essentials.nick.*
+    - essentials.realname
+    - essentials.recipe
+    - essentials.rules
+    - essentials.sethome
+    - essentials.sethome.*
+    - essentials.spawn
+    - essentials.suicide
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    groups: []

@@ -1,0 +1,30 @@
+lastAccountName: bamxmejia
+timestamps:
+  login: 1518577800474
+  lastteleport: 1518577805617
+  logout: 1518577795467
+ipAddress: 68.180.64.20
+lastlocation:
+  world: world
+  x: 312.5
+  y: 80.0
+  z: 203.5
+  yaw: -169.34128
+  pitch: 55.050003
+logoutlocation:
+  world: world
+  x: 312.5
+  y: 80.0
+  z: 203.5
+  yaw: -169.34128
+  pitch: 55.050003
+afk: false
+homes:
+  home:
+    world: world
+    x: 311.65674584832686
+    y: 80.0
+    z: 208.21142693123474
+    yaw: -262.19128
+    pitch: 7.800006
+nickname: Peruvian

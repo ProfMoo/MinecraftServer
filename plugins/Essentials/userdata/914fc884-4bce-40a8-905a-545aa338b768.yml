@@ -1,0 +1,29 @@
+lastAccountName: BrownFrown98
+timestamps:
+  login: 1518493504188
+  logout: 1518494045486
+  lastteleport: 1518493842320
+ipAddress: 192.168.0.17
+afk: false
+logoutlocation:
+  world: world
+  x: 310.5263043598235
+  y: 80.0
+  z: 203.73768551683537
+  yaw: 345.9505
+  pitch: 27.899994
+lastlocation:
+  world: world
+  x: 328.89080980364446
+  y: 12.0
+  z: 45.36345022484046
+  yaw: 344.15283
+  pitch: 28.049969
+homes:
+  obhome:
+    world: world
+    x: 313.9550309802558
+    y: 80.0
+    z: 202.19492795203988
+    yaw: -92.79904
+    pitch: 7.3500094

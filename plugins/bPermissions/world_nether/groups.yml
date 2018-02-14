@@ -1,0 +1,11 @@
+default: default
+groups:
+  owner:
+    permissions: []
+    groups: []
+  default:
+    permissions: []
+    groups: []
+  user:
+    permissions: []
+    groups: []

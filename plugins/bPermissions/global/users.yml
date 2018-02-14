@@ -1,0 +1,36 @@
+users:
+  890da927-d154-4402-a59f-a7029a15527f:
+    username: F0GELL
+    permissions: []
+    groups:
+    - user
+  19bff8da-fd55-488e-8eb6-1ebfe133b0c4:
+    username: 0Rem0
+    permissions: []
+    groups:
+    - user
+  89ed7822-d4ac-46c1-8c88-158c004d1e06:
+    username: Scrandbob
+    permissions: []
+    groups:
+    - user
+  36605243-0eb8-43f7-b1be-24d34d4859da:
+    username: LightningJG
+    permissions: []
+    groups:
+    - user
+  0a499d9d-e542-4394-ae92-e5646580a310:
+    username: Superbud9123
+    permissions: []
+    groups:
+    - owner
+  914fc884-4bce-40a8-905a-545aa338b768:
+    username: BrownFrown98
+    permissions: []
+    groups:
+    - user
+  754c94dc-2237-4def-891f-b75381c5df20:
+    username: bamxmejia
+    permissions: []
+    groups:
+    - user

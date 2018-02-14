@@ -1,0 +1,99 @@
+lastAccountName: 0Rem0
+timestamps:
+  login: 1518295490180
+  logout: 1518297168872
+  lastteleport: 1518296773874
+ipAddress: 99.170.33.40
+lastlocation:
+  world: world
+  x: 271.1098587712225
+  y: 40.0
+  z: 230.22502349282576
+  yaw: 268.99554
+  pitch: 12.599995
+logoutlocation:
+  world: world
+  x: 242.3021420452278
+  y: 39.0
+  z: 230.01599672875727
+  yaw: -178.1529
+  pitch: -18.44987
+homes:
+  home:
+    world: world
+    x: 306.8482003702171
+    y: 80.0
+    z: 213.16643370405538
+    yaw: 89.55397
+    pitch: 15.599851
+  spidey:
+    world: world
+    x: 242.65346651487164
+    y: 39.0
+    z: 258.48370155164054
+    yaw: 90.954926
+    pitch: 67.950035
+  spiderman:
+    world: world
+    x: 265.3621033468317
+    y: 34.0
+    z: 177.6868167203617
+    yaw: -0.39648438
+    pitch: -90.0
+  revine:
+    world: world
+    x: 212.5784963037965
+    y: 36.0
+    z: 219.61054283883547
+    yaw: 171.9486
+    pitch: 61.950287
+  what:
+    world: world
+    x: 316.4299663288572
+    y: 35.0
+    z: 257.5534624452495
+    yaw: 93.19818
+    pitch: 18.300142
+  slime:
+    world: world
+    x: 287.30000001192093
+    y: 35.0
+    z: 235.2786199107187
+    yaw: 80.29684
+    pitch: 37.650105
+  string:
+    world: world
+    x: 278.5138961928947
+    y: 35.0
+    z: 234.92500001192093
+    yaw: 181.24701
+    pitch: 28.500074
+  itsybitsy:
+    world: world
+    x: 272.38480062466243
+    y: 42.0
+    z: 246.69999998807907
+    yaw: -180.25322
+    pitch: -4.3499947
+  zom:
+    world: world
+    x: 322.4844170144236
+    y: 26.0
+    z: 203.46158337878376
+    yaw: 110.583374
+    pitch: 47.24998
+  revine2_0:
+    world: world
+    x: 274.37927549766346
+    y: 13.0
+    z: 136.49976396218335
+    yaw: -95.81995
+    pitch: -53.999886
+  revine3:
+    world: world
+    x: 366.69999998807907
+    y: 24.0
+    z: 210.11526008505183
+    yaw: -251.98215
+    pitch: 24.150024
+nickname: Lizzy
